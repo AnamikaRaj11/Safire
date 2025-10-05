@@ -72,7 +72,7 @@ This browser extension detects and hides harassment messages to create a safer o
 
 3️⃣ **Users can manually review hidden messages if needed.**  
 
- -->
+ ---
 
 ## Demo Video
 
@@ -96,7 +96,7 @@ Online harassment is a critical social issue, disproportionately affecting women
 - **Slow Manual Reporting**: Platform reporting systems are slow and often ineffective, leaving victims unprotected.
 
 <div align="center">
-  <a href="https://drive.google.com/file/d/1XuOpAc2S8qeLWhWpD5HGfEtjNZ-d_To4/view?usp=share_link" target="_blank">  
+  <a href="[https://drive.google.com/file/d/1XuOpAc2S8qeLWhWpD5HGfEtjNZ-d_To4/view?usp=share_link](https://drive.google.com/file/d/1mvd4_lzI1M7y9VUbb1G4vgaDnWD7-8EO/view?usp=sharing)" target="_blank">  
      <img width="1014" height="568" alt="Problem" src="https://github.com/user-attachments/assets/4fa39729-7c76-432f-9ed9-d555fb082abd" />
 
   </a>
