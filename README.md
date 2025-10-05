@@ -330,6 +330,22 @@ This project was brought to life by the *"Smooth Operators"*.
 
 ---
 
+## Submission 
+## 🎥 Demo
+
+[**Watch the Demo on YouTube**](https://youtu.be/P_AOuIpOxos)  
+
+See Safire in action—real-time detection, hiding, and logging of harassment.
+
+---
+
+## 📄 Project Presentation
+
+[**View the Presentation (PDF)**](https://drive.google.com/file/d/1mvd4_lzI1M7y9VUbb1G4vgaDnWD7-8EO/view?usp=sharing)  
+
+View the complete Safire project presentation on Google Drive.
+
+
 > [!NOTE]
 > *A Note on Our Development Journey*
 > 
